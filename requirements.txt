@@ -1,7 +1,7 @@
 Flask==0.9
 Flask-RESTful==0.2.2
 Flask-SQLAlchemy==0.16
-Jinja2==2.6
+Jinja2==2.7.2
 SQLAlchemy==0.8.1
 Werkzeug==0.8.3
 git-remote-helpers==0.1.0
